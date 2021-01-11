@@ -43,7 +43,7 @@
                 "GroupDescription": "Allow SSH and TCP/3000 access",
                 "SecurityGroupIngress": [
                     {
-                        "CidrIp": "43.241.33.62/32",
+                        "CidrIp": "0.0.0.0/32",
                         "FromPort": "22",
                         "IpProtocol": "tcp",
                         "ToPort": "22"
